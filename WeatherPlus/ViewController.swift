@@ -3,7 +3,7 @@
 //  WeatherPlus
 //
 //  Created by Yaswanth on 2017-12-19.
-//  Copyright © 2017 Yaswanth. All rights reserved.
+//  Copyright © 2017 Yaswanth. All rights reserved to yaswanth.
 //
 
 import UIKit
